@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Callback</h2>
+
+<p>Wait 5 seconds (5000 milliseconds) for getting info of the user.</p>
+
+<h1 id="demo"></h1>
+
+<script>
+setTimeout(myFunction, 5000);
+
+function myFunction() {
+  document.getElementById("demo").innerHTML = "NAME=PAVAN,COMPANY=WIPRO,PLATFORM= GREATLEARNING";
+}
+</script>
+
+</body>
+</html>

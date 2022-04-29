@@ -1,0 +1,32 @@
+var weekdays = '7 days';
+switch( weekdays ) {
+    case 'sunday': 
+}      sunday = 0;
+console.log( 'sunday=0' )
+switch( weekdays ) {
+    case 'monday': 
+}      monday = 1;
+console.log( 'monday=1' )
+switch( weekdays ) {
+    case 'tuesday': 
+}      tuesday = 2;
+console.log( 'tuesday=2' )
+switch( weekdays ) {
+    case 'wednesday': 
+}      wednesday = 3;
+console.log( 'wednesday=3' )
+switch( weekdays ) {
+    case 'thursday': 
+}      thursday = 4;
+console.log( 'thursday=4' )
+switch( weekdays ) {
+    case 'friday': 
+}      friday = 5;
+console.log( 'friday=5' )
+switch( weekdays ) {
+    case 'saturday': 
+}      friday = 6;
+console.log( 'saturday=6' )
+
+
+     
